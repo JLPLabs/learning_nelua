@@ -1,7 +1,7 @@
-# learning nelua
-Some basics that may be useful as you start to learn Nelua
+# Learning Nelua
+Some basics that may be useful as you start to learn [Nelua](https://nelua.io/)
 
-## modules
+## Modules
 Say you have a statistics library (in Nelua) and you want to create a namespace (similiar to how you would use a table in Lua).
 
 *stats.nelua*
